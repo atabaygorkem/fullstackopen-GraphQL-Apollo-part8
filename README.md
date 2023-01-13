@@ -59,7 +59,7 @@ npm start
 ```
 Check [localhost:4000](http://localhost:4000/) to see Apollo Server interface.
 # _library-frontend-apollo-client_
-- This part uses the server from [a-apollo-server](#apollo-server-mongoose), so make sure the server is running before following the steps below.
+- This part uses the server from [_apollo-server-mongoose_](#apollo-server-mongoose), so make sure the server is running before following the steps below.
 
 Install the dependencies.
 ```sh
